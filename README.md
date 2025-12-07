@@ -89,10 +89,8 @@ src/
 ├── services/       # Logic for API calls & data fetching (OpenWeatherMap)
 ├── styles/         # Global CSS and design tokens
 ├── utils/          # Helper functions and formatters
-└── App.jsx         # Main application component and routing (if applicable) ```
----
-
-## 🎨 Design Highlights & Performance
+└── App.jsx         # Main application component and routing (if applicable)
+🎨 Design Highlights & Performance
 Modern gradient backgrounds and smooth transitions.
 
 Weather-adaptive color schemes for an intuitive user experience.
