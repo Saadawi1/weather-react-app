@@ -90,7 +90,10 @@ src/
 ├── styles/         # Global CSS and design tokens
 ├── utils/          # Helper functions and formatters
 └── App.jsx         # Main application component and routing (if applicable)
-🎨 Design Highlights & Performance
+
+---
+
+## 🎨 Design Highlights & Performance
 Modern gradient backgrounds and smooth transitions.
 
 Weather-adaptive color schemes for an intuitive user experience.
