@@ -90,3 +90,39 @@ src/
 ├── styles/         # Global CSS and design tokens
 ├── utils/          # Helper functions and formatters
 └── App.jsx         # Main application component and routing (if applicable)
+
+---
+
+## 🎨 Design Highlights & Performance
+```text
+Modern gradient backgrounds and smooth transitions.
+
+Weather-adaptive color schemes for an intuitive user experience.
+
+Accessibility-focused design.
+
+Optimized API calls and minimal bundle size ensure fast loading times.
+
+🤝 Contributing
+Contributions are always welcome!
+
+Fork the repository (https://github.com/Saadawi1/weather-react-app/fork).
+
+Create your feature branch (git checkout -b feature/AmazingFeature).
+
+Commit your changes (git commit -m 'Add some AmazingFeature').
+
+Push to the branch (git push origin feature/AmazingFeature).
+
+Open a Pull Request.
+
+📄 License
+Distributed under the MIT License. See LICENSE for more information.
+
+MIT © 2024 Saadawi1
+
+<div align="center"> <p>Made with ❤️ using React & OpenWeatherMap</p>
+
+Live Demo · Report Issue · Request Feature
+
+</div>
