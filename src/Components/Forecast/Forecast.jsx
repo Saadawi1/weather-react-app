@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './Forecast.css'
+import './forecast.css'
 import {
   Accordion,
   AccordionItem,
