@@ -46,7 +46,7 @@ Follow these steps to get a development environment running:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Saadawi1/weather-react-app.git](https://github.com/Saadawi1/weather-react-app.git)
+    git clone https://github.com/Saadawi1/weather-react-app.git
     ```
 2.  **Navigate to project:**
     ```bash
@@ -89,41 +89,4 @@ src/
 ├── services/       # Logic for API calls & data fetching (OpenWeatherMap)
 ├── styles/         # Global CSS and design tokens
 ├── utils/          # Helper functions and formatters
-└── App.jsx         # Main application component and routing (if applicable)
-
----
-
-## 🎨 Design Highlights & Performance
-
-* Modern gradient backgrounds and smooth transitions.
-* Weather-adaptive color schemes for an intuitive user experience.
-* Accessibility-focused design.
-* Optimized API calls and minimal bundle size ensure fast loading times.
-
----
-
-## 🤝 Contributing
-
-Contributions are always welcome!
-
-1.  Fork the repository (`https://github.com/Saadawi1/weather-react-app/fork`).
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-*MIT © 2024 Saadawi1*
-
-<div align="center"> 
-    <p>Made with ❤️ using React & OpenWeatherMap</p>
-    
-[Live Demo](URL_HERE) ·
-[Report Issue](https://github.com/Saadawi1/weather-react-app/issues) ·
-[Request Feature](https://github.com/Saadawi1/weather-react-app/issues)
-</div>
+└── App.jsx         # Main application component
