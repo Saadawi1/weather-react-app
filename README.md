@@ -1,16 +1,61 @@
-# React + Vite
+🌤️ Weather React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React app to search and display the current weather for any city, with dynamic backgrounds based on weather conditions.
 
-Currently, two official plugins are available:
+🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://weather-react-app-plum-eight.vercel.app
 
-## React Compiler
+✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Easily search for the weather in any city
 
-## Expanding the ESLint configuration
+Display dynamic backgrounds based on weather conditions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fully responsive design for all screen sizes
+
+Built with React, Vite, and CSS
+
+🛠️ Technologies Used
+
+React
+
+Vite
+
+CSS
+
+MUI (Material UI)
+
+react-accessible-accordion
+
+💻 Installation & Running Locally
+
+Clone the project:
+
+git clone https://github.com/Saadawi1/weather-react-app.git
+
+
+Navigate to the project folder:
+
+cd weather-react-app
+
+
+Install dependencies:
+
+npm install
+
+
+Run the project locally:
+
+npm run dev
+
+📦 Build & Production
+
+To build the project for production:
+
+npm run build
+
+
+Then preview the production build:
+
+npm run preview
