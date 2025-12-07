@@ -89,7 +89,7 @@ src/
 ├── services/       # Logic for API calls & data fetching (OpenWeatherMap)
 ├── styles/         # Global CSS and design tokens
 ├── utils/          # Helper functions and formatters
-└── App.jsx         # Main application component and routing (if applicable)
+└── App.jsx         # Main application component and routing (if applicable) ```
 ---
 
 ## 🎨 Design Highlights & Performance
