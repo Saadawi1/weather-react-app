@@ -94,35 +94,36 @@ src/
 ---
 
 ## 🎨 Design Highlights & Performance
-```text
-Modern gradient backgrounds and smooth transitions.
 
-Weather-adaptive color schemes for an intuitive user experience.
+* Modern gradient backgrounds and smooth transitions.
+* Weather-adaptive color schemes for an intuitive user experience.
+* Accessibility-focused design.
+* Optimized API calls and minimal bundle size ensure fast loading times.
 
-Accessibility-focused design.
+---
 
-Optimized API calls and minimal bundle size ensure fast loading times.
+## 🤝 Contributing
 
-🤝 Contributing
 Contributions are always welcome!
 
-Fork the repository (https://github.com/Saadawi1/weather-react-app/fork).
+1.  Fork the repository (`https://github.com/Saadawi1/weather-react-app/fork`).
+2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4.  Push to the branch (`git push origin feature/AmazingFeature`).
+5.  Open a Pull Request.
 
-Create your feature branch (git checkout -b feature/AmazingFeature).
+---
 
-Commit your changes (git commit -m 'Add some AmazingFeature').
+## 📄 License
 
-Push to the branch (git push origin feature/AmazingFeature).
+Distributed under the MIT License. See `LICENSE` for more information.
 
-Open a Pull Request.
+*MIT © 2024 Saadawi1*
 
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
-
-MIT © 2024 Saadawi1
-
-<div align="center"> <p>Made with ❤️ using React & OpenWeatherMap</p>
-
-Live Demo · Report Issue · Request Feature
-
+<div align="center"> 
+    <p>Made with ❤️ using React & OpenWeatherMap</p>
+    
+[Live Demo](URL_HERE) ·
+[Report Issue](https://github.com/Saadawi1/weather-react-app/issues) ·
+[Request Feature](https://github.com/Saadawi1/weather-react-app/issues)
 </div>
