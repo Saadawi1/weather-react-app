@@ -90,7 +90,6 @@ src/
 ├── styles/         # Global CSS and design tokens
 ├── utils/          # Helper functions and formatters
 └── App.jsx         # Main application component and routing (if applicable)
-
 ---
 
 ## 🎨 Design Highlights & Performance
