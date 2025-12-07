@@ -1,5 +1,6 @@
 🌤️ Weather React App - Professional Edition
 <div align="center">
+  <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white
 https://img.shields.io/badge/Deployed%2520on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
 https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge
